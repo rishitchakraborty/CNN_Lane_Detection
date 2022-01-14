@@ -1,0 +1,9 @@
+keras
+IPython
+ffmpeg
+tensorflow
+moviepy
+numpy
+opencv-python
+scikit-learn
+scipy==1.2.1
